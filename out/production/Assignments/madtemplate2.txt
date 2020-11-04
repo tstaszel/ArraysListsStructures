@@ -1,0 +1,2 @@
+This is a <adjective> story about how a <color> <animal>
+became a <color> <animal>.
